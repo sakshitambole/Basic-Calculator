@@ -99,7 +99,7 @@ By completing this project, I learned how to:
 - Deploy the calculator using GitHub Pages.
 
 LIVE DEMO
-
+https://sakshitambole.github.io/Basic-Calculator/
 
 👩‍💻 Author
 
